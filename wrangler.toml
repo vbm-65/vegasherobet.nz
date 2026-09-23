@@ -1,0 +1,11 @@
+name = "vegasherobet-nz"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=vegasherobet.nz"
+HMAC_KEY = "ce3f1b163067198847fa8609f29d7639b8f9341c5ea39c0f93afce73f07fb3fe"
+COOKIE_NAME = "k6n"
+PLAY_PATH = "explore"
+BUTTON_ID = "p58a096d4d16f0e5144f160d1e913e81a"
+GATE_SALT = "0c81d76f736bba6a"
